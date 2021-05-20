@@ -51,6 +51,48 @@ To browse a course, navigate **Course > Browse Course**
 
 ![](/images/adminbrowsecourseview.png)
 
+## Course Users
+
+### Add Course User
+
+Admin user can add course user goto navigation **Course->List of Course->Edit Course User**.
+
+We can add user under a course as Instructor & Learner.
+
+![](/images/adminaddcourseuser.png)
+
+### Add Instructor
+
+For adding user as learner click on Add Instructor Button. 
+
+![](/images/adminaddinstructor.png)
+
+After click on Add Instructor button this window is open and now need to select a user which you want to add as learner under course and click on save button. 
+
+![](/images/adminselectuser.png)
+
+![](/images/adminassignedusers.png)
+
+### Add Learner
+
+For adding user as learner click on Add Learner Button.
+
+![](/images/admineditassignedusers.png)
+
+After click on Add Learner button this window is open and now need to select a user which you want to add as learner under course and click on save button. 
+
+![](/images/adminselectusers.png)
+
+After click on save button added learner user showing in listing now click on save button.
+
+![](/images/adminuserassigment.png)
+
+### Edit Course User
+
+For Edit Course user need to go navigation Edit Course User right click of course listing.
+
+![](/images/admineditusers.png)
+
 ## View List of Users
 
 To view all Users as an Admin, navigate **Admin > Course > List of Users**
@@ -60,3 +102,27 @@ To view all Users as an Admin, navigate **Admin > Course > List of Users**
 List of all Users will appear to check which user is assigned what role for each course.
 
 ![](/images/admincourseusersview.png)
+
+## Forum Post
+
+### View Forum Post
+
+To view forum post go to, navigate **Admin -> List of Course Right Click->View Forum Post.**
+
+![](/images/adminviewforumpost.png)
+
+### Open Forum Post
+
+To open forum post, navigate Right click on **Course ->View Forum Post->Right Click ->Open Forum Post.**
+
+![](/images/adminopenforumpost.png)
+
+### Add Forum Post
+
+To create a new forum post, navigate **Admin ->List of Courses->Right Click-> New Forum Post.**
+
+![](/images/adminaddforumpost.png)
+
+
+
+

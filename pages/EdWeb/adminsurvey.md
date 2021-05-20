@@ -9,9 +9,10 @@ comments: false
 ---
 
 
-
 # Survey
-##   Create Survey
+
+## Create Survey
+
 To create a survey, navigate **Admin > Survey > New Survey**
 
 ![](/images/admincreatesurveymenu.png)
@@ -19,6 +20,35 @@ To create a survey, navigate **Admin > Survey > New Survey**
  Fill all the details and **Save**
 
 ![](/images/admincreatesurvey.png)
+
+**Questions:** We can add various type questions under this tab.
+
+![](/images/adminsurveyquestions.png)
+
+After click on + sign open this window. Now we can select question for created test and save it.
+
+![](/images/adminsurveytestquestions.png)
+
+After saved selected questions, showing this we can also edit/delete question using mention key under action. if no change is require than save it.
+
+![](/images/adminsurveytestquestionview.png)
+
+**Config:** We can set configuration for created test under this tab.
+
+![](/images/adminsurveyconfig.png)
+
+**Assignment:** We can assigned created survey to Instructor or  Learner under this tab.
+
+![](/images/adminsurveyassignment.png)
+
+
+
+
+
+
+
+
+
 
 ## List of Surveys
 

@@ -21,6 +21,10 @@ To create an assignment, navigate **Admin > Assignment > New Assignment**
 
 ![](/images/admincreateassignment.png)
 
+**Assignment:** We can assigned created assignment to Instructor or  Learner under this tab.
+
+![](/images/adminassignmentassign.png)
+
 ## List of Assignments
 
 To view all the assignments, navigate **Admin > Assignment > List of Assignments**

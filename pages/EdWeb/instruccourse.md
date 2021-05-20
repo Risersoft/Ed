@@ -36,6 +36,22 @@ Once the content is created, save the form and the content will be **saved** for
 
 ![](/images/InstructorCourseContentSave.png)
 
+**Course File:**  To download course file, navigate **My Course->Right Click->Go to Course Dashboard->Click on download sign.**
+
+![](/images/InstructorCourseFile.png)
+
+## Browse Course
+
+To Browse Courses assigned to you as an instructor, navigate **Instructor > My Course->Right Click ->Browse Course**.
+
+![](/images/InstructorBrowseCourse.png)
+
+After browse course you can see all related information of assigned course at a glance.
+
+![](/images/InstructorBrowseCourseView.png)
+
+
+
 ### Create Assignment 
 
 **Step-1:** Select Assignment as a content type from the list.Assignment form will appear.
@@ -105,4 +121,25 @@ Selecting **Embed only the characters used in the presentation** reduces the fil
 We recommend leaving the check box blank if the other person may edit the file.
 
 4.	Click **OK**.
+
+## Forum Post
+
+### View Forum Post
+
+To view forum post go to, navigate **Instructor -> My Courses-> Right Click->View Forum Post.**
+ 
+![](/images/viewforumpost.png)
+
+### Open Forum Post
+
+To open forum post, navigate Right click on **My Courses ->View Forum Post->Right Click ->Open Forum Post.**
+
+![](/images/openforumpost.png)
+
+### Add Forum Post
+
+To create a new forum post, navigate **Instructor ->My Courses->Right Click-> New Forum Post.**
+
+![](/images/addforumpost.png)
+ 
 

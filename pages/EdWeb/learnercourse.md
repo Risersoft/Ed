@@ -62,13 +62,18 @@ After click on Submit button showing this msg.
 
 ![](/images/learnercourseAssigSubmit.png)
 
+**Course File:** To download course file, navigate **My Course->Right Click->Go to Course Dashboard->Click on download sign**.
 
+![](/images/learnercoursefile.png) 
+
+# Forum Post
 
 ## View Forum Post
 
 To view Forum Post of a course, navigate **Right Click on Course > View Forum Post**
 
 ![](/images/Learnerviewforumpostpath.png)
+
 
 **List of Forum Post** for that course will appear
 
