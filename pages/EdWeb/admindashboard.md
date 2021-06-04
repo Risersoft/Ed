@@ -16,7 +16,13 @@ comments: false
 
 ![](/images/admindashboardmenu.png)
 
+In mobile browser ,
+
+![](/images/admindashboardmenuMobile.jpg)
+
 
 Different types of Data views will appear for different Courses, Assessments created by Admin.
 
 ![](/images/admindashboard.png)
+
+![](/images/admindashboardMobile.jpg)

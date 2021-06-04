@@ -28,13 +28,19 @@ To edit content of the course, navigate **Right click on Course > Edit Course Co
 
 ![](/images/InstructorEditCourseContent.png)
 
+![](/images/InstructorEditCourseContentMobile.jpg)
+
 An Instructor can add multiple type of **Course Content**
 
 ![](/images/InstructorCourseContentAdd.png)
 
+![](/images/InstructorCourseContentAddMobile.jpg)
+
 Once the content is created, save the form and the content will be **saved** for the course.
 
 ![](/images/InstructorCourseContentSave.png)
+
+![](/images/InstructorCourseContentSaveMobile.jpg)
 
 **Course File:**  To download course file, navigate **My Course->Right Click->Go to Course Dashboard->Click on download sign.**
 
@@ -50,7 +56,7 @@ After browse course you can see all related information of assigned course at a 
 
 ![](/images/InstructorBrowseCourseView.png)
 
-
+![](/images/InstructorBrowseCourseViewMobile.jpg)
 
 ### Create Assignment 
 
@@ -59,6 +65,8 @@ After browse course you can see all related information of assigned course at a 
 **Step-2:** Fill the entries and upload the questions pdf file ( Click on Choose file -> select the file and click on Upload).
 
 ![](/images/InstructorAssignmnetSave.png)
+
+![](/images/InstructorAssignmnetSaveMobile.jpg)
 
 **Step-3:** Click on Save.
 
@@ -82,11 +90,14 @@ After Submitted by Learners Login as Instructor and go to my Course menu and bro
 
 ![](/images/InstructorAssignmnetOption.png)
 
+![](/images/InstructorAssignmnetOptionMobile.jpg)
+
 ![](/images/InstructorAssignmentCheck.png)
 
 
 
 ## Tips for Video Upload
+
 A video created by your smart phone is too heavier to upload and way too heavy for students to download. Please compress the 
 video before uploading in order to speed up the process of uploading and downloading, as well as to save the internet.
 
@@ -135,6 +146,8 @@ To view forum post go to, navigate **Instructor -> My Courses-> Right Click->Vie
 To open forum post, navigate Right click on **My Courses ->View Forum Post->Right Click ->Open Forum Post.**
 
 ![](/images/openforumpost.png)
+
+![](/images/openforumpostMobile.jpg)
 
 ### Add Forum Post
 

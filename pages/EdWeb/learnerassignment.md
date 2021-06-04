@@ -8,9 +8,8 @@ hide_sidebar: false
 comments: false
 ---
 
-
-
 # My Assignments
+
 ##  List of Assignments
 
 To view list of assignments assigned to you as a learner, navigate **Learner > My Assignment**
@@ -20,6 +19,12 @@ To view list of assignments assigned to you as a learner, navigate **Learner > M
 **List of Assignments** assigned to you as a Learner will appear
 
 ![](/images/learnerassignmentlist.png)
+
+In mobile browser ,
+
+![](/images/learnerassignmentlistmobile.jpg)
+
+
 
 ## Start Assignment
 

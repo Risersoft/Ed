@@ -16,6 +16,13 @@ To view dashboard as an Instructor, navigate **Instructor > Dashboard**.
 
 ![](/images/InstructorDashboardMenu.png)
 
+In mobile browser ,
+
+![](/images/InstructorDashboardMenumobile.jpg)
+
 Different type of **Data** views will appear for different Courses, Assessments created by Admin and assigned to you as an Instructor.
 
 ![](/images/InstructorDashboard.png)
+
+![](/images/InstructorDashboardMobile.jpg)  
+

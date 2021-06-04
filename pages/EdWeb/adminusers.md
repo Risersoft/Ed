@@ -19,6 +19,8 @@ Right click on a **user > Browse User**
 
 ![](/images/adminusersBrowseUser.png)
 
+![](/images/adminusersBrowseUserMobile.jpg)
+
 **Browse User** option allows Admin to check the role of user for different **Courses** and **Assessments**
 
 ![](/images/adminusersBrowseUserView.png)

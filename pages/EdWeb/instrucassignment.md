@@ -31,3 +31,5 @@ To edit an assignment assigned to you as an instructor, navigate **Right click o
 Fill the fields and upload assignment and **Save**
 
 ![](/images/instructorAssignmentUploadSave.png)
+
+![](/images/instructorAssignmentUploadSaveMobile.jpg)

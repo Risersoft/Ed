@@ -9,17 +9,23 @@ comments: false
 ---
 
 
-
 # Course
 
 ## Create Course
+
 To add a new course, navigate **Admin > Course > New Course**
 
 ![](/images/admincreatecoursemenu.png)
 
+In mobile browser ,
+
+![](/images/admincreatecoursemenumobile.jpg)
+
 Fill the details and **Save** to create a Course.
 
 ![](/images/admincreatecourse.png)
+
+![](/images/admincreatecoursemobile.jpg)
 
 ## List of Courses
 
@@ -47,9 +53,13 @@ To browse a course, navigate **Course > Browse Course**
 
 ![](/images/adminbrowsecourselist.png)
 
+![](/images/adminbrowsecourselistmobile.jpg)
+
 **Browse Course** Screen as an Admin to check the course content and assessments added in a particular course.
 
 ![](/images/adminbrowsecourseview.png)
+
+![](/images/adminbrowsecourseviewmobile.jpg)
 
 ## Course Users
 

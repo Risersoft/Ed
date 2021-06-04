@@ -31,6 +31,8 @@ An Instructor can add different type of Questions into a Test
 
 ![](/images/learneredittest.png)
 
+![](/images/learneredittestmobile.jpg)
+
 An instance to show “How to add a **Multiple Choice Question**”
 
 ![](/images/learnertestMCQ.png)

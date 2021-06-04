@@ -17,9 +17,15 @@ To View List of Courses assigned to you as a Learner, navigate **Learner > My Co
 
 ![](/images/learnercoursemenu.png)
 
+In mobile browser ,
+
+![](/images/learnercoursemenumobile.jpg)
+
 The Courses assigned to you as a Learner will appear
 
 ![](/images/learnercourseview.png)
+
+![](/images/learnercourseviewmobile.jpg)
 
 ## View Course
 
@@ -27,9 +33,13 @@ To view a particular course and its contents as a learner, navigate **Right Clic
 
 ![](/images/learnercoursepath.png)
 
+![](/images/learnercoursepathmobile.jpg)
+
 There is an option to **Start or View** a particular content of the course
 
 ![](/images/learnercoursestartview.png)
+
+![](/images/learnercoursestartviewmobile.jpg)
 
 ## Start Viewing Course Content
 
@@ -40,6 +50,8 @@ To view content of a course as a Leaner, navigate **Right click on Course > Star
 A view of a content of course when a course is started
 
 ![](/images/learnercourseviewcontent.png)
+
+![](/images/learnercourseviewcontentmobile.jpg)
 
 ### How to Attemp Assignment given by Instructor
 
@@ -61,6 +73,8 @@ After click on Submit button showing this msg.
 >Note: Should be ensure that Pdf file downloaded properly and showing msg as per attached file.
 
 ![](/images/learnercourseAssigSubmit.png)
+
+![](/images/learnercourseAssigSubmitmobile.jpg)
 
 **Course File:** To download course file, navigate **My Course->Right Click->Go to Course Dashboard->Click on download sign**.
 
@@ -88,3 +102,7 @@ To add a new Forum Post as a Learner, Navigate **My Courses > New Forum Post**
 Fill all the Details and **Save**, Forum Post will be created
 
 ![](/images/learneraddforumpostsave.png)
+
+In mobile browser ,
+
+![](/images/learneraddforumpostsavemobile.jpg)

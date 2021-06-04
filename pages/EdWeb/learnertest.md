@@ -10,15 +10,24 @@ comments: false
 
 
 # My Tests
+
 ## List of Tests
 
 To view all the Tests as a leaner, navigate **Learner > My Tests**
 
 ![](/images/learnertestmenu.png)
 
+In mobile browser ,
+
+![](/images/learnertestmenumobile.jpg)
+
 List of Tests assigned to you as a Learner will appear
 
 ![](/images/learnertestview.png)
+
+In mobile browser ,
+
+![](/images/learnertestviewmobile.jpg)
 
 ## Start Test
 
@@ -29,3 +38,5 @@ To start a Test assigned to you as a learner, navigate **Right click on Test > V
 To Start the Test as Learner, select the **“Start”** option
 
 ![](/images/learnerstarttest.png)
+
+![](/images/learnerattempttestmobile.jpg)
