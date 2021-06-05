@@ -41,13 +41,15 @@ After saved selected questions, showing this we can also edit/delete question us
 
 ![](/images/adminsurveyassignment.png)
 
+## Browse Survey
 
+To browse a stand along Survey, navigate Survey > Browse Survey
 
+![](/images/adminsurveybrowseoption.png)
 
+Browse Survey Screen as an Admin to check the related information of a particular stand along Survey.
 
-
-
-
+![](/images/adminsurveybrowse.png)
 
 
 ## List of Surveys

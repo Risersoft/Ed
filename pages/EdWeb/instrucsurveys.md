@@ -9,8 +9,8 @@ comments: false
 ---
 
 
-
 # My Surveys
+
 ## List of Surveys
 
 To view the List of Surveys assigned to you as an Instructor, navigate **Instructor > My Surveys**
@@ -21,7 +21,7 @@ The Surveys assigned to you as an Instructor will appear
 
 ![](/images/InstructorSurveylist.png)
 
-## Edit Surveys
+## Edit Survey
 
 To view the List of Surveys assigned to you as an Instructor, navigate **Right click on a survey > View Survey**
 
@@ -38,3 +38,13 @@ An Instance to add a question to the Survey
 Once the Instructor is done adding all the questions, following screen will allow the user to re-arrange the appearance of questions in the Survey. Once re-arranged, the Survey can be saved.
 
 ![](/images/InstructorSurveyQuestionSave.png)
+
+## Browse Survey
+
+To browse stand along Survey assigned to you as an instructor, navigate My Surveys->Right Click ->Browse Survey.
+
+![](/images/InstructorSurveyBrowseOption.png)
+
+Browse Survey Screen as an Instructor to check the related information of a particular stand along Survey.
+
+![](/images/InstructorSurveyBrowse.png)

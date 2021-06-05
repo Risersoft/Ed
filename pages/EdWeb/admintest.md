@@ -66,6 +66,15 @@ To Edit Course File, navigate **Admin > Course > List of Course->Selected Course
 
 ![](/images/adminaddcoursefileedit.png)
 
+## Browse Test
+
+To browse a stand along test, navigate Test > Browse Test
+
+![](/images/adminbrowsetestoption.png)
+
+Browse Test Screen as an Admin to check the related information of a particular stand along test.
+
+![](/images/adminbrowsetest.png)
 
 ## List of Tests
 

@@ -33,3 +33,13 @@ Fill the fields and upload assignment and **Save**
 ![](/images/instructorAssignmentUploadSave.png)
 
 ![](/images/instructorAssignmentUploadSaveMobile.jpg)
+
+## Browse Assignment
+
+To Browse stand along Assignment assigned to you as an instructor, Instructor > My Assignments ->Right Click ->Browse Assignment.
+
+![](/images/instructorAssignmentoption.png)
+
+Browse Assignment Screen as an Instructor to check the related information of a particular stand along Assignment.
+
+![](/images/instructorAssignmentbrowse.png)

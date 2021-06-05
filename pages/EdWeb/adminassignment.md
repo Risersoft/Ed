@@ -25,6 +25,16 @@ To create an assignment, navigate **Admin > Assignment > New Assignment**
 
 ![](/images/adminassignmentassign.png)
 
+## Browse Assignment
+
+To browse a stand along Assignment, navigate Assignment > Browse Assignment.
+
+![](/images/adminassignmentbrowseoption.png)
+
+Browse Assignment Screen as an Admin to check the related information of a particular stand along Assignment.
+
+![](/images/adminassignmentbrowse.png)
+
 ## List of Assignments
 
 To view all the assignments, navigate **Admin > Assignment > List of Assignments**

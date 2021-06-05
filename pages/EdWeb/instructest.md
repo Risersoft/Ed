@@ -49,6 +49,17 @@ Once the Instructor is done adding all the questions, following screen will allo
 
 ![](/images/learnertestassignent.png)
 
+## Browse Test
+
+To Browse stand along Test assigned to you as an instructor, navigate Instructor > My Tests->Right Click ->Browse Test.
+
+![](/images/learnertestbrowseoption.png)
+
+Browse Test Screen as an Instructor to check the related information of a particular stand along test.
+
+![](/images/learnertestbrowse.png)
+
+
 
 
 
